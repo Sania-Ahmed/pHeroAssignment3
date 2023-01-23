@@ -1,0 +1,9 @@
+/* adding the background images */
+.banner{
+    background: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%),
+    url('../images/Rectangle\ 6.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
